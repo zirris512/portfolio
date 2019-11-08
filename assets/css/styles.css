@@ -98,6 +98,7 @@ main {
   margin: 20px auto;
   height: 300px;
   width: 300px;
+  cursor: pointer;
 }
 
 .form-control {
@@ -128,4 +129,5 @@ main {
   float: right;
   height: 50px;
   width: 50px;
+  cursor: pointer;
 }
