@@ -1,6 +1,6 @@
 body {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-  background-image: url("../imgs/ignasi_pattern_s.png");
+  background-image: url("images/green_background.jpg");
 }
 
 html {
@@ -96,6 +96,8 @@ main {
 
 .port-image {
   margin: 20px auto;
+  height: 300px;
+  width: 300px;
 }
 
 .form-control {
@@ -115,4 +117,15 @@ main {
 
 .submit-btn:hover {
   opacity: .7;
+}
+
+.portfolio-titles {
+  float: left;
+  font-size: 1.5em;
+}
+
+.github {
+  float: right;
+  height: 50px;
+  width: 50px;
 }
