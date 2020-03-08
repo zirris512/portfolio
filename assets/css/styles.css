@@ -131,3 +131,7 @@ main {
   width: 50px;
   cursor: pointer;
 }
+
+.link-title {
+  font-weight: bold;
+}
