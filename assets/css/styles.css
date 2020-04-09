@@ -132,6 +132,15 @@ main {
   cursor: pointer;
 }
 
-.link-title {
+.contact-link {
+  color: black;
+}
+
+.control-label {
   font-weight: bold;
+  cursor: text;
+}
+
+.contact-link:hover {
+  color: blue;
 }
