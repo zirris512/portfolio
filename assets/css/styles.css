@@ -132,6 +132,13 @@ main {
   cursor: pointer;
 }
 
+.collapse-btn {
+  float: right;
+  margin-top: 5px;
+  height: 40px;
+  width: 60px;
+}
+
 .contact-link {
   color: black;
 }

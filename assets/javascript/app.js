@@ -8,7 +8,7 @@ $(".port-image").on("click", function () {
     else {
         alert("Please allow popups for this site");
     }
-})
+});
 
 $(".github").on("click", function() {
     let win = window.open($(this).attr("data-url"), "_blank");
@@ -20,4 +20,4 @@ $(".github").on("click", function() {
     else {
         alert("Please allow popups for this site");
     }
-})
+});
