@@ -154,14 +154,14 @@ main {
   color: blue;
 }
 
-.modal-dialog {
+/* .modal-dialog {
    overflow-y: initial;
 }
 
 .modal-body {
    height: 400px;
    overflow-y: auto;
-}
+} */
 
 .modal-image {
    width: 350px;
