@@ -168,4 +168,5 @@ main {
    height: 250px;
    border: 1px solid black;
    cursor: pointer;
+   margin-bottom: 5px;
 }
